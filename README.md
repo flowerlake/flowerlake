@@ -3,6 +3,8 @@
 <!--
 **flowerlake/flowerlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+A bit Awesome
+
 #### 玩具
 
 - 🔭 可以用python、java、C、C++、Shell、JavaScript、汇编等语言写hello, world
