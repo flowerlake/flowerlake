@@ -14,6 +14,9 @@ A bit Awesome
 - 🤔 爬虫技术也还算可以，一句话总结爬虫就是：爬与反爬的斗智斗勇
 - ⚡ 对一些数据库还算了解，SQL数据库和NoSql都有所了解，传统的数据库用的最多的是MySQL，nosql数据库用过文档型数据库MongoDB，图数据库neo4j，键值数据库Redis，列数据库HBase，不甚深究
 
+#### NOW!
+- 🔭 浸淫Java后端，分析各类Java框架（包括不限于序列化、Tomcat服务器研究、netty分析、Java加载器研究、字节码工程）
+
 #### Where to Find me
 
 - email: cherryg963@gmail.com
