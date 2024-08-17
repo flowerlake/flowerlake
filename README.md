@@ -16,7 +16,3 @@ A bit Awesome
 
 #### NOW!
 - 🔭 浸淫Java后端，分析各类Java框架（包括不限于序列化、Tomcat服务器研究、netty分析、Java加载器研究、字节码工程）
-
-#### Where to Find me
-
-- email: garden0x1@163.com
